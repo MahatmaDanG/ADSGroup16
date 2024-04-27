@@ -83,7 +83,7 @@ model.fit(X_train, y_train)
 
 
 # %%
-
+8092375 <------ THIS IS MY LATEST TENSORFLOW TRAINING JOB
 
 # %%
 #Predicting values over my test set...
